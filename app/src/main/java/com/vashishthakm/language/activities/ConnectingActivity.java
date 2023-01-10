@@ -28,7 +28,7 @@ public class ConnectingActivity extends AppCompatActivity {
     FirebaseAuth auth;
     FirebaseDatabase database;
     boolean isOkay = false;
-
+//    Vashishtha Maurya
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

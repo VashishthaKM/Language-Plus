@@ -30,7 +30,6 @@ import org.jetbrains.annotations.NotNull;
 import java.util.UUID;
 
 public class CallActivity extends AppCompatActivity {
-
     ActivityCallBinding binding;
     String uniqueId = "";
     FirebaseAuth auth;
