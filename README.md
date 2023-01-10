@@ -35,3 +35,7 @@ For support, email vashishthakm@protonmail.com or join our Slack channel.
   <a href="https://vashishthakm.bio.link/">
   <img width="30px" src="https://cdn.bio.link/uploads/profile_pictures/2022-09-18/J7o8OtGwoTksjvnwbIHcdm24QzUvuHLr.png" />
   </a>
+
+## License
+
+[GPL LICENSE](LICENSE)
