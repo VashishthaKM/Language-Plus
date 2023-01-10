@@ -38,4 +38,4 @@ For support, email vashishthakm@protonmail.com or join our Slack channel.
 
 ## License
 
-[GPL LICENSE](LICENSE)
+[![GPL LICENSE](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](LICENSE.md)
